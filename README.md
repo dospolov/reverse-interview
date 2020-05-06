@@ -1,4 +1,7 @@
-# Reverse interview - list of the questions from dev to the company
+# Reverse interview
+
+## List of the questions from dev to the company.
+### Fork it or use it as is.
 
 ```
 ★★★★☆ - question priority
