@@ -25,6 +25,9 @@ Is there an option to work remotely? On what ratio?
 How do you feel about [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)? 
 `manager`
 
+Do you use Micro-frontends and why?
+`tech`
+
 How does API provided? Should I setup local server?
 `tech`
 
